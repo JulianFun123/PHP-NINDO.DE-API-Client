@@ -1,0 +1,8 @@
+{
+    "init_scripts": [],
+    "cli_scripts": {},
+    "packages": {
+        "httprequest": "1.0"
+    },
+    "directnamespaces": {}
+}

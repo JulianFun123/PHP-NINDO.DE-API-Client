@@ -1,0 +1,13 @@
+{
+    "name": "nindoclient",
+    "version": "1.0",
+    "description": "",
+    "author": "",
+    "keywords": [
+        ""
+    ],
+    "modules": {
+        "httprequest": "1.0"
+    },
+    "namespaces": {}
+}
