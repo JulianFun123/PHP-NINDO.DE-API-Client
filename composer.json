@@ -8,6 +8,7 @@
         }
     ],
     "require": {
+        "interaapps/httprequest": "1.0"
     },
     "autoload": {
         "psr-4": {
